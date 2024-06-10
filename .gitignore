@@ -2,6 +2,10 @@
 /terraform/app1use/ec2/.terraform.lock.hcl
 /terraform/app1use/ec2/.terraform/
 /terraform/app1use/ec2/terraform.tfstate.backup
+/terraform/app1use/ec2_count/terraform.tfstate
+/terraform/app1use/ec2_count/.terraform.lock.hcl
+/terraform/app1use/ec2_count/.terraform/
+/terraform/app1use/ec2_count/terraform.tfstate.backup
 /terraform/app1use/s3/terraform.tfstate
 /terraform/app1use/s3/.terraform.lock.hcl
 /terraform/app1use/s3/.terraform/
@@ -19,3 +23,6 @@
 /terraform/modules/vpc/terraform.tfstate
 /terraform/modules/vpc/.terraform.lock.hcl
 /terraform/modules/vpc/.terraform/
+/terraform/modules/ec2_count/terraform.tfstate
+/terraform/modules/ec2_count/.terraform.lock.hcl
+/terraform/modules/ec2_count/.terraform/
